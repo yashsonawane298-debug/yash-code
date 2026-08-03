@@ -1,2 +1,2 @@
 # yash-code
-this is my first code
+this is my first repositories
